@@ -1,0 +1,20 @@
+state1 -> {     0 + 5/6   } o { +0 + 1/6 }
+state2 -> { - ( 1 - 6/5 ) } o { +0 - 1/6 }
+
+https://www.youtube.com/watch?v=P5ew0BrRm_I
+Jason Rute - Deep learning in interactive theorem proving - IPAM at UCLA
+
+telemetry - wiki
+Telemetry is the in situ collection of measurements or other data at remote points,
+and their automatic transmission to receiving equipment (telecommunication) for monitoring.
+The word is derived from the Greek roots tele, 'remote', and metron, 'measure'.
+Systems that need external instructions and data to operate require the counterpart of telemetry.
+
+telemetry for competitions?
+
+lemma - wiki
+In mathematics, informal logic and argument mapping,
+a lemma (plural lemmas or lemmata) is a generally minor,
+proven proposition which is used as a stepping stone to a larger result.
+For that reason, it is also known as a "helping theorem" or an "auxiliary theorem".
+theorem € lemmas.
